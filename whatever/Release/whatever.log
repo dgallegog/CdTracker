@@ -1,0 +1,17 @@
+﻿  ClCObject.cpp
+  DebugConsole.cpp
+C:\Users\david\Desktop\Todo\CURSOS\DAM\Proyecto Final\scripts originales\pruebasReales\whatever\DebugConsole.cpp(13,15): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\david\Desktop\Todo\CURSOS\DAM\Proyecto Final\scripts originales\pruebasReales\whatever\DebugConsole.cpp(13,22): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\david\Desktop\Todo\CURSOS\DAM\Proyecto Final\scripts originales\pruebasReales\whatever\DebugConsole.cpp(16,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\david\Desktop\Todo\CURSOS\DAM\Proyecto Final\scripts originales\pruebasReales\whatever\DebugConsole.cpp(25,8): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Functions.h
+  main.cpp
+C:\Users\david\Desktop\Todo\CURSOS\DAM\Proyecto Final\scripts originales\pruebasReales\whatever\main.cpp(88,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\david\Desktop\Todo\CURSOS\DAM\Proyecto Final\scripts originales\pruebasReales\whatever\main.cpp(113,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Memory.cpp
+  SpellBook.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  whatever.vcxproj -> C:\Users\david\Desktop\Todo\CURSOS\DAM\Proyecto Final\scripts originales\pruebasReales\Release\whatever.dll
